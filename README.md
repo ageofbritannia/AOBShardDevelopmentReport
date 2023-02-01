@@ -4,9 +4,9 @@ To do list
 Please note that this list contains both staff development information and reminders as well as player feedback / suggestions to improve current systems or add more depth to the server. Whilst we would love to instantly complete every task on here some may require more thought / time to develop and implement safetly into the server.
 
 Many thanks
-Aj - AOB Owner / Administrator
+Aj - AOB Admin
 
-TO DO LIST IN NO PARTICULAR ORDER
+TO DO LIST (random order)
 
 Add sounds and more rewards to the Achievement System
 

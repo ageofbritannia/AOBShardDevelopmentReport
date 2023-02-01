@@ -1,7 +1,7 @@
 # AOBShardDevelopmentReport
 To do list
 
-Please note that this list contains both staff development information and reminders and player feedback / suggestions to improve current systems or add more depth to the server. Whilst we would love to instantly complete every task on here some may require more though / time to progress and implement safetly into the server.
+Please note that this list contains both staff development information and reminders as well as player feedback / suggestions to improve current systems or add more depth to the server. Whilst we would love to instantly complete every task on here some may require more thought / time to develop and implement safetly into the server.
 
 Many thanks
 

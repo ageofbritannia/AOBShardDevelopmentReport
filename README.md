@@ -18,6 +18,6 @@ Transmog potions allow use on quivers / cloaks?
 
 DONE
 
-Improve AOB Casino instructions / information - 2 x New NPC's added that give information out and gambling machines improved instructions on hover - - 1st Feb 2023
+Improve AOB Casino instructions / information - 2 x New NPC's added that give info out and gambling machines now have instructions on hover - 1st Feb 2023
 
 We will do our best to update this list and add / remove information periodically thanks!

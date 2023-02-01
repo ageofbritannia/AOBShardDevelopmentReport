@@ -10,9 +10,13 @@ AJ - Admin@aobgames.com
 TO DO LIST IN NO PARTICULAR ORDER
 
 Add sounds and more rewards to the Achievement System
+
 Improve AOB Casino instructions / information
+
 Add sound i.e clapping or cheers into vote gump?
+
 Push game chat into discord so game [chat test will pull into discord
+
 Transmog potions allow use on quivers / cloaks?
 
 We will do our best to update this list and add / remove information periodically thanks!
